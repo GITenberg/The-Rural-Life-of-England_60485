@@ -1,0 +1,42 @@
+_repo: The-Rural-Life-of-England_60485
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Williams, Samuel
+    alias: Williams, S. (Samuel)
+    birthdate: 1788
+    deathdate: 1853
+    gutenberg_agent_id: '34229'
+    url: http://www.gutenberg.org/2009/agents/34229
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Williams_(engraver)
+  - agent_name: Bewick, Thomas
+    alias: Bewick, T. (Thomas)
+    birthdate: 1753
+    deathdate: 1828
+    gutenberg_agent_id: '33524'
+    url: http://www.gutenberg.org/2009/agents/33524
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Bewick
+creator:
+  author:
+    agent_name: Howitt, William
+    birthdate: 1792
+    deathdate: 1879
+    gutenberg_agent_id: '38358'
+    url: http://www.gutenberg.org/2009/agents/38358
+    wikipedia: https://en.wikipedia.org/wiki/William_Howitt
+description: ''
+gutenberg_issued: '2019-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Social life and customs -- 19th century'
+- !lcsh 'Country life -- England'
+- GITenberg
+title: The Rural Life of England
+url: http://www.gutenberg.org/ebooks/60485
